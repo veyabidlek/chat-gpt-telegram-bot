@@ -1,8 +1,8 @@
 import telebot
 import openai 
 
-telegram_key="6521674801:AAETYtmB1ZggvPlMQuukDPbT88bjXK3HalM"
-openai.api_key="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"
+telegram_key="api_key"
+openai.api_key=api_key"
 
 
 bot = telebot.TeleBot(telegram_key) 
